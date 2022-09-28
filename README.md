@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Tasca-S3.02---Nivell-2---Patterns-2
-=======
-# Tasca-S3.02-Patterns-2
 
 Descripció
 Anem a aprofundir en els patrons de construcció de programari. Pensa-ho bé abans de construir el teu software!!!
